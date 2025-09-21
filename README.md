@@ -17,13 +17,13 @@
   <a href="mailto:b2b@linkfirst.ru">
     <img src="https://img.shields.io/badge/📧_EMAIL-D14836?style=for-the-badge&logo=gmail&logoColor=white" alt="Email"/>
   </a>
-  <a href="https://www.linkedin.com/in/linkfirst/">
+  <a href="https://www.linkedin.com/in/savineo/">
     <img src="https://img.shields.io/badge/👔_LINKEDIN-0A66C2?style=for-the-badge&logo=linkedin&logoColor=white" alt="LinkedIn"/>
   </a>
 </p>
 
 </div>
-
+<br>
 
 
 ## 🎯 About Me
@@ -31,6 +31,8 @@
 > **I specialize in web development, creating functional, user-friendly, and modern solutions for businesses.**
 
 I build websites, scripts, and turnkey IT solutions that help companies automate processes, improve customer engagement, and operate efficiently in the digital environment.
+
+<br>
 
 ## 🛠️ Technologies
 
@@ -63,7 +65,7 @@ I build websites, scripts, and turnkey IT solutions that help companies automate
 	  <a href="https://www.apple.com/ios/" target="_blank" rel="nofollow"><img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/apple/apple-original.svg" width="40" height="40" alt="ios logo" style="max-width: 100%;"></a>
 	    <a href="https://www.microsoft.com/windows/" target="_blank" rel="nofollow"><img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/windows8/windows8-original.svg" width="40" height="40" alt="windows logo" style="max-width: 100%;"></a>
 </div>
-
+<br><br>
 
 ## 📈 GitHub Analytics
 
